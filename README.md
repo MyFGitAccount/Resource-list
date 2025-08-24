@@ -15,7 +15,7 @@ Best website a programmer should visit -->https://github.com/sdmg15/Best-website
 the book of secret knowledge -->https://github.com/trimstray/the-book-of-secret-knowledge
 
 
-#Git
+# Git
 
 Git command with example-- > https://dzone.com/articles/top-20-git-commands-with-examples
 
@@ -23,7 +23,7 @@ Git command with example-- > https://dzone.com/articles/top-20-git-commands-with
 How To Write And Format An GitHub —>https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
-#Learn to code
+# Learn to code
 
 Rosetta code -->https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task
 
@@ -37,7 +37,7 @@ learn-to-code -->https://github.com/collections/learn-to-code
 Learn anything x-y-z -->https://learn-anything.xyz
 
 
-#Data Science 
+# Data Science 
 
 Learn Probability -->https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/
 
@@ -93,7 +93,7 @@ ailearning --> https://github.com/apachecn/ailearning
 Data fair —>https://data-flair.training/blogs/
 
 
-#Python
+# Python
 
 Full Stack Python --> https://www.fullstackpython.com
 
@@ -102,7 +102,7 @@ SICP text book—>https://wizardforcel.gitbooks.io/sicp-in-python/content/index.
 Runestone->https://runestone.academy/ns/books/published/fopp/index.html
 
 
-#Java
+# Java
 
 Java Lecture Note -->https://www.cafeaulait.org/course/
 
@@ -118,7 +118,7 @@ How java garbage collection works -->https://www.dynatrace.com/resources/ebooks/
 Dive into Java Byte code -->https://www.wikiwand.com/en/articles/Java_bytecode
 
 
-#C
+# C
 
 C programming -->https://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html
 
@@ -130,7 +130,7 @@ The Descent to C -->https://www.chiark.greenend.org.uk/~sgtatham/cdescent/
 
 
 
-#C++
+# C++
 
 Hacking cpp -->https://hackingcpp.com/cpp/beginners_guide.html
 
@@ -148,11 +148,11 @@ UST c++--> https://cse.hkust.edu.hk/~quan/comp152/index.html
 
 
 
-#Haskell
+# Haskell
 
 Collection of Haskell tutorial—>https://wiki.haskell.org/index.php?title=Tutorials
 
-#Rust
+# Rust
 
 Rust language book -->https://doc.rust-lang.org/stable/book/
 
@@ -193,7 +193,7 @@ Blue Team Rust: What is "Memory Safety", Really? -->https://tiemoko.com/blog/blu
 Single Page Applications using Rust -->https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
 
 
-#Web dev
+# Web dev
 
 react-redux --> https://github.com/markerikson/react-redux-links?tab=readme-ov-file
 
@@ -207,7 +207,7 @@ Awesome JavaScript Learning-->https://github.com/micromata/awesome-javascript-le
 Morden JavaScript Tutorial—>https://javascript.info
 
 
-#Game and shader
+# Game and shader
 
 love game tutorial<--https://berbasoft.com/simplegametutorials/love/
 
@@ -254,7 +254,7 @@ A curated list of games that teach you a programming language<--https://github.c
 Learning modern 3D graphic programming —> https://nicolbolas.github.io/oldtut/
 
 
-#Awesome 
+# Awesome 
 
 Awesome project -->https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md
 
@@ -295,7 +295,7 @@ Awesome audio visualisation -> https://github.com/willianjusten/awesome-audio-vi
 Awesome creative coding—> https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
 
 
-#Project based and build your own x
+# Project based and build your own x
 
 Projects - A list of practical projects that anyone can solve in any programming language.
 
@@ -315,7 +315,7 @@ enlight -->https://enlight.nyc/projects
 App idea --> https://github.com/florinpop17/app-ideas
 
 
-#Bash and Shell scripting
+# Bash and Shell scripting
 
 The art of command line -->https://github.com/jlevy/the-art-of-command-line
 
@@ -335,12 +335,12 @@ Conquering the Command Line Unix and Linux Commands for Developers -->https://ww
 pure bash bible -->https://github.com/dylanaraps/pure-bash-bible
 
 
-#System design 
+# System design 
 
 System design primer -->https://github.com/donnemartin/system-design-primer
 
 
-#CS Related 
+# CS Related 
 
 The Missing Semester of Your CS Education -->https://missing.csail.mit.edu
 
@@ -357,7 +357,7 @@ CS-Notes in Chinese -->https://github.com/CyC2018/CS-Notes
 A Gentle Introduction To Graph Theory -->https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory
 
 
-#Math Related 
+# Math Related 
 
 Math ∩ Programming -->https://www.jeremykun.com
 
@@ -376,7 +376,7 @@ BITCOIN INFORMATION & RESOURCES -->https://www.lopp.net/bitcoin-information.html
 Learn web3 -->https://learnweb3.io/level-up/
 
 
-#Security 
+# Security 
 
 Red Team tool -->https://github.com/A-poc/RedTeam-Tools
 
