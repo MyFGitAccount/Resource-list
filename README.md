@@ -36,6 +36,9 @@ learn-to-code -->https://github.com/collections/learn-to-code
 
 Learn anything x-y-z -->https://learn-anything.xyz
 
+Project nayuki -->https://www.nayuki.io/
+
+
 
 # Data Science 
 
@@ -206,6 +209,7 @@ Awesome JavaScript Learning-->https://github.com/micromata/awesome-javascript-le
 
 Morden JavaScript Tutorial—>https://javascript.info
 
+The Odin project-->https://www.theodinproject.com/
 
 # Game and shader
 
