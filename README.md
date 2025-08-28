@@ -38,6 +38,7 @@ Learn anything x-y-z -->https://learn-anything.xyz
 
 Project nayuki -->https://www.nayuki.io/
 
+freecodecamp -->https://www.freecodecamp.org
 
 
 # Data Science 
@@ -372,6 +373,7 @@ A Gentle Introduction To Graph Theory -->https://dev.to/vaidehijoshi/a-gentle-in
 
 CS170 -- Operating Systems-->https://sites.cs.ucsb.edu/~rich/class/cs170/
 
+Parallel processing in Python, R, Julia, MATLAB, and C/C++ —> https://computing.stat.berkeley.edu/tutorial-parallelization/
 
 # Math Related 
 
@@ -484,6 +486,6 @@ cybersecurity-university -->https://github.com/brootware/awesome-cyber-security-
 cryptography -->https://learn-cryptography.readthedocs.io/zh/latest/basic/
 
 
-Linux and Unix 
+# Linux and Unix 
 
 Linux inside -->https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html
