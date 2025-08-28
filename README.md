@@ -125,13 +125,21 @@ Dive into Java Byte code -->https://www.wikiwand.com/en/articles/Java_bytecode
 
 C programming -->https://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html
 
-
 Deep C -->https://www.slideshare.net/slideshow/deep-c/9626718
-
 
 The Descent to C -->https://www.chiark.greenend.org.uk/~sgtatham/cdescent/
 
+The Linux Kernel Module Programming Guide -->https://sysprog21.github.io/lkmpg/
 
+Linux Kernel Teaching-->https://linux-kernel-labs.github.io/refs/heads/master/
+
+Linux Kernel Programming-->https://teaching.os.rwth-aachen.de/LKP/
+
+CS433 Linux Kernel Programming - Course Syllabus - Spring 2023-->https://web.njit.edu/~sohna/cs433/
+
+The GNU C Reference Manual-->https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+
+C documentation --> https://devdocs.io/c/
 
 # C++
 
@@ -150,6 +158,10 @@ The C++ Programming Language -->https://www.stroustrup.com/C++.html
 UST c++--> https://cse.hkust.edu.hk/~quan/comp152/index.html
 
 
+An Introduction to Parallel Computing in C++-->https://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/pasl.html
+
+
+Havard CS106B Programming Abstraction-->https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1258/syllabus
 
 # Haskell
 
@@ -171,29 +183,23 @@ Rustlings -->https://github.com/rust-lang/rustlings
 
 Learning rust --> https://github.com/learning-rust/learning-rust.github.io
 
-
 Learn rust the dangerous way -->https://cliffle.com/p/dangerust
-
 
 learn rust -->https://github.com/ctjhoa/rust-learning
 
-
 Tour of Rust—> https://tourofrust.com/TOC_en.html
-
 
 Rust for JavaScript Developers -->https://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums/
 
-
 Rust language Cheat Sheet -->https://cheats.rs
-
 
 Read rust --> https://readrust.net
 
-
 Blue Team Rust: What is "Memory Safety", Really? -->https://tiemoko.com/blog/blue-team-rust/
 
-
 Single Page Applications using Rust -->https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
+
+Writing an OS in Rust -->https://os.phil-opp.com/
 
 
 # Web dev
