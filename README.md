@@ -163,6 +163,9 @@ An Introduction to Parallel Computing in C++-->https://www.cs.cmu.edu/afs/cs/aca
 
 Havard CS106B Programming Abstraction-->https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1258/syllabus
 
+
+Study Plan Dev CPP—>https://www.studyplan.dev/pro-cpp
+
 # Haskell
 
 Collection of Haskell tutorial—>https://wiki.haskell.org/index.php?title=Tutorials
