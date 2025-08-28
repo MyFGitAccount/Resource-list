@@ -141,6 +141,7 @@ The GNU C Reference Manual-->https://www.gnu.org/software/gnu-c-manual/gnu-c-man
 
 C documentation --> https://devdocs.io/c/
 
+
 # C++
 
 Hacking cpp -->https://hackingcpp.com/cpp/beginners_guide.html
@@ -368,6 +369,8 @@ CS-Notes in Chinese -->https://github.com/CyC2018/CS-Notes
 
 
 A Gentle Introduction To Graph Theory -->https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory
+
+CS170 -- Operating Systems-->https://sites.cs.ucsb.edu/~rich/class/cs170/
 
 
 # Math Related 
