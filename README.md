@@ -485,6 +485,8 @@ cybersecurity-university -->https://github.com/brootware/awesome-cyber-security-
 
 cryptography -->https://learn-cryptography.readthedocs.io/zh/latest/basic/
 
+CSE 127, Winter 2021 Intro to Computer Security—> https://cseweb.ucsd.edu/classes/wi21/cse127-a/
+
 
 # Linux and Unix 
 
