@@ -325,7 +325,7 @@ Awesome creative coding—> https://github.com/terkelg/awesome-creative-coding?t
 
 # Project based and build your own x
 
-Projects - A list of practical projects that anyone can solve in any programming language.
+Projects - A list of practical projects that anyone can solve in any programming language. -->https://github.com/karan/Projects
 
 
 Project based learning -->https://github.com/Xtremilicious/projectlearn-project-based-learning?tab=readme-ov-file
