@@ -177,6 +177,12 @@ C++ 17–>https://pvs-studio.com/en/blog/posts/cpp/0533/
 
 Collection of Haskell tutorial—>https://wiki.haskell.org/index.php?title=Tutorials
 
+School of haskell-->https://www.schoolofhaskell.com/school/starting-with-haskell/introduction-to-haskell
+
+Haskell wiki—> https://wiki.haskell.org/index.php?title=Haskell
+
+Haskell note and example —> https://www.vex.net/~trebla/haskell/index.xhtml
+
 # Rust
 
 Rust language book -->https://doc.rust-lang.org/stable/book/
