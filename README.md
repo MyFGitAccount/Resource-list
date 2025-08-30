@@ -105,6 +105,7 @@ SICP text book—>https://wizardforcel.gitbooks.io/sicp-in-python/content/index.
 
 Runestone->https://runestone.academy/ns/books/published/fopp/index.html
 
+Python Cheatsheet—>https://www.pythoncheatsheet.org
 
 # Java
 
@@ -168,6 +169,10 @@ Havard CS106B Programming Abstraction-->https://web.stanford.edu/class/archive/c
 
 Study Plan Dev CPP—>https://www.studyplan.dev/pro-cpp
 
+C++ recommendation—>https://www.stroustrup.com/C++.html
+
+C++ 17–>https://pvs-studio.com/en/blog/posts/cpp/0533/
+
 # Haskell
 
 Collection of Haskell tutorial—>https://wiki.haskell.org/index.php?title=Tutorials
@@ -221,6 +226,8 @@ Awesome JavaScript Learning-->https://github.com/micromata/awesome-javascript-le
 Morden JavaScript Tutorial—>https://javascript.info
 
 The Odin project-->https://www.theodinproject.com/
+
+Web skill—>https://andreasbm.github.io/web-skills/
 
 # Game and shader
 
@@ -374,6 +381,10 @@ A Gentle Introduction To Graph Theory -->https://dev.to/vaidehijoshi/a-gentle-in
 CS170 -- Operating Systems-->https://sites.cs.ucsb.edu/~rich/class/cs170/
 
 Parallel processing in Python, R, Julia, MATLAB, and C/C++ —> https://computing.stat.berkeley.edu/tutorial-parallelization/
+
+Let build a simple database—>https://cstack.github.io/db_tutorial/
+
+Open data structure —>https://opendatastructures.org
 
 # Math Related 
 
