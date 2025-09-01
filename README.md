@@ -6,6 +6,8 @@ Rexim-->https://gist.github.com/rexim
 
 Tsoding-->https://github.com/tsoding
 
+TheCodingTrain-->https://thecodingtrain.com
+
 # Recommend 
 
 Harvard recommended -->https://docs.google.com/spreadsheets/d/1kfM740uQhV1hZi8pOlCqbhoHH2rUnHuBTzNZTwhszJk/edit?gid=0#gid=0
