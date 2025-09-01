@@ -1,8 +1,6 @@
 # Resource-list
 A lerning reference for my personal use
 
-Resource list
-
 # Recreation Programming
 Rexim-->https://gist.github.com/rexim
 
