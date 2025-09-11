@@ -398,6 +398,8 @@ Open data structure —>https://opendatastructures.org
 
 Computer Science from the Bottom Up —>https://bottomupcs.com/index.html
 
+linux-insides —> https://0xax.gitbooks.io/linux-insides/content/
+
 # Math Related 
 
 Math ∩ Programming -->https://www.jeremykun.com
