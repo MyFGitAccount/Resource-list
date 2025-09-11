@@ -396,6 +396,8 @@ Let build a simple database—>https://cstack.github.io/db_tutorial/
 
 Open data structure —>https://opendatastructures.org
 
+Computer Science from the Bottom Up —>https://bottomupcs.com/index.html
+
 # Math Related 
 
 Math ∩ Programming -->https://www.jeremykun.com
