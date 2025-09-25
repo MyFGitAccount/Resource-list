@@ -516,3 +516,216 @@ CSE 127, Winter 2021 Intro to Computer Security—> https://cseweb.ucsd.edu/clas
 # Linux and Unix 
 
 Linux inside -->https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html
+
+# Toronto University
+
+https://www.teach.cs.toronto.edu/~csc148h/notes/ Python
+
+https://github.com/Kartik-Sangwan/CSC148 Python
+
+https://www.teach.cs.toronto.edu/~csc110y/fall/notes/ Intro to CS
+
+https://www.cs.cornell.edu/courses/cs4414/2023fa/ System Programming
+
+https://www.cs.toronto.edu/~kianoosh/courses/csc209/ System Programming
+
+https://www.nayuki.io/page/csc258-computer-debugger CSC258 computer debugger
+
+https://www.cs.toronto.edu/~heap/270F02/ CSC270 2002 Data Structure
+
+https://www.cs.toronto.edu/~Iczhang/324/ Programming language
+
+https://github.com/TurkeyBilly/CSC324 Programming language
+
+https://github.com/psarahdactyl/computer-graphics-csc418 Computer graphics
+
+https://artsci.calender.utoronto.ca/course/csc488h1 CSC488 Compiler 
+
+https://github.com/vglazer/csc488 Compiler
+
+# MIT
+
+https://courses.grainger.illinois.edu/cs225/fa2022/resources/templates/
+
+Operating system engineering
+https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/resources/sh/
+
+https://pdos.csail.mit.edu/6.1810/2023/overview.html
+
+Computer systems engineering
+https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/
+
+Intro to programming in java
+https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/lecture-notes/
+
+Multithreaded parallelism language and compiler
+https://ocw.mit.edu/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/
+
+Computer Systems Security
+https://css.csail.mit.edu/6.5660/2024/
+
+https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/
+
+Algorithm Engineering Spring 2023
+https://jshun.csail.mit.edu/6506-s23/
+
+Introduction to algorithms
+https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+
+Blockchain And Money
+https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/
+
+Performance Engineering Of Software Systems
+https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
+
+Programming For The Puzzled
+https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/
+
+Cryptocurrency Engineering And Design
+https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/
+
+Computation Structures
+https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
+
+Mathematics for computer science
+https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/
+
+Database System
+https://dsg.csail.mit.edu/6.5830/index.php
+
+Introduction To Computational Thinking
+https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/
+
+https://computationalthinking.mit.edu/Fall22/
+
+Topics In Theoretical Computer Science: Probabilistically Checkable Proofs
+https://ocw.mit.edu/courses/18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022/
+
+Introduction To R And Geographic Information Systems (GIS)
+https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/
+
+Machine Vision
+https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/
+
+Visual Navigation For Autonomous Vehicles (VNAV)
+https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/
+
+Interactive Music Systems
+https://ocw.mit.edu/courses/21m-385-interactive-music-systems-fall-2016/
+
+Elliptic Curves
+https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/
+
+Introduction To Computational Thinking With Julia, With Applications To Modeling The COVID-19 Pandemic
+https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/
+
+Machine Learning For Healthcare
+https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/
+
+Introduction To MATLAB
+https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/
+
+Introduction To Computational Thinking And Data Science
+https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+
+Mathematics Of Big Data And Machine Learning
+https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/
+
+Introduction To Numerical Methods
+https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/download/
+
+Practical programming in c
+https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/
+
+Introduction to mathematics programming
+https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/
+
+Foundation of software engineering
+https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/
+
+Topic in mathematics of data science
+https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/
+
+Network and computer security
+https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/
+
+Effective Programming In C And C++
+https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
+
+Introduction to C and C++
+https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/
+
+Performance Engineering Of Software Systems
+https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
+
+Software Studio
+https://ocw.mit.edu/courses/6-170-software-studio-spring-2013/
+
+# havard
+
+https://csadvising.seas.harvard.edu/cs50_Guide_v25.pdf
+
+CS 50: Introduction to Computer Science
+
+CS 20: Discrete Mathematics for Computer Science
+
+CS 61: Systems Programming and Machine Organization
+
+CS 1200: Introduction to Algorithms and their Limitations
+
+CS 1210: Introduction to theoretical computer science
+
+https://web.stanford.edu/class/cs143/ CS143: Compilers https://groups.seas.harvard.edu/courses/cs153/2019fa/schedule.html
+
+CS 161: Operating Systems
+https://read.seas.harvard.edu/cs161/2024/
+
+CS 144: Introduction to Computer Networking
+https://cs144.github.io
+
+CS165 Data System
+http://daslab.seas.harvard.edu/classes/cs165/
+
+CS265 Big Data Systems
+http://daslab.seas.harvard.edu/classes/cs265/
+
+CS124 Data Structure and Assignments
+https://jokerdii.github.io/data-structures-and-algorithms/#/
+
+CS146 Computer Architecture
+https://www.eecs.harvard.edu/cs146-246/
+
+CS 181: Machine Learning (2022)
+https://harvard-ml-courses.github.io/cs181-web-2022/
+
+https://harvard-ml-courses.github.io/cs181-web/resources
+
+CS127 Cryptography(2018)
+https://www.boazbarak.org/cs127spring16/
+
+CS189 Introduction to Machine Learning
+https://people.eecs.berkeley.edu/~jrs/189/
+
+CS136 Economics and Computation
+https://sites.google.com/g.harvard.edu/cs136/home
+
+CS 152 Programming Language
+https://groups.seas.harvard.edu/courses/cs152/2022sp/schedule.html
+
+CS 224 Advanced algorithms
+https://people.seas.harvard.edu/~cs224/fall14/lec.html
+
+CS 73: Code, Data, and Art
+https://wattenberg.github.io/cs73/
+
+CS107 / AC207: Systems Development for Computational Science
+https://harvard-iacs.github.io/2021-CS107/pages/schedule.html
+
+CS146/246 : Computer Architecture
+https://www.eecs.harvard.edu/cs146-246/
+
+CS 205: High Performance Computing for Science and Engineering
+https://harvard-iacs.github.io/2022-CS205/pages/resources.html
+
+CS234: Reinforcements learning
+https://web.stanford.edu/class/cs234/modules.html
