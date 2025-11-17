@@ -25,7 +25,67 @@ Git command with example-- > https://dzone.com/articles/top-20-git-commands-with
 
 
 How To Write And Format An GitHub —>https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
+# Language
+1 Python -->https://docs.python.org/3/tutorial/index.html
+2 Java -->https://docs.oracle.com/en/java/
+3 Javascript -->https://developer.mozilla.org/en-US/docs/Web/JavaScript
+4 Typescript -->https://typescriptlang.org/docs/
+5 Go -->https://go.dev/doc/
+6 C -->https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+7 C++ -->https://en.cppreference.com/w/
+8 C3 -->https://c3-lang.org/getting-started/
+9 Lua -->https://www.lua.org/docs.html
+10 Julia -->https://docs.julialang.org/en/v1/
+11 Rust -->https://doc.rust-lang.org/book/
+12 R -->https://cran.r-project.org/manuals.html
+13 PHP -->https://www.php.net/
+14 Erlang -->https://www.erlang.org/docs
+15 Ruby -->https://www.ruby-lang.org/en/documentation/
+16 Haskell -->https://www.haskell.org/documentation/
+17 Zig -->https://ziglang.org/learn/
+18 Odin -->https://odin-lang.org/
+19 Ocaml -->https://ocaml.org/
+20 V -->https://vlang.io/
+21 D -->https://dlang.org/
+22 Ada -->https://ada-lang.io/
+23 Fortran -->https://fortran-lang.org/
+24 Pascal -->https://www.freepascal.org/
+25 C# -->https://learn.microsoft.com/zh-tw/dotnet/csharp/
+26 F# -->https://fsharp.org/
+27 Scala -->https://www.scala-lang.org/
+28 Dart -->https://dart.dev/
+29 Gleam -->https://gleam.run/
+30 Racket -->https://www.racket-lang.org/
+31 Nim -->https://nim-lang.org/
+32 Lisp
+33 Clojure -->https://clojure.org/
+34 Crystal -->https://crystal-lang.org/
+35 Elixir -->https://elixir-lang.org/docs.html
+36 Umka -->https://github.com/vtereshkov/umka-lang
+37 Neko -->https://nekovm.org/
+38 Haxe -->https://haxe.org/
+39 Apache Groovy -->https://groovy-lang.org/
+40 Kotlin -->https://kotlinlang.org/
+41 Lean Programming langauge -->https://lean-lang.org/
+42 Kaleidoscope (toy language for how compiler work) -->https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html
+43 Lox (toy language for how compiler work) -->https://craftinginterpreters.com/the-lox-language.html
+44  Imp language -->https://softwarefoundations.cis.upenn.edu/lf-current/Imp.html
+45 ML language
+46 Prolog
+47 COBOL
+48 BASIC
+49 Assembly Language
+50 Wasm -->https://webassembly.org/
+51 Forth
+52 Uxn11 -->https://git.sr.ht/~rabbits/uxn11
+53 Hare ->https://harelang.org/
+54 QBE backend -->https://c9x.me/compile/
+55 Bash 
+56 Powershell
+57 Visual Basic
+58 J programming language
+59 K programming language
+60 Perl
 
 # Learn to code
 
