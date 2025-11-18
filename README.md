@@ -524,7 +524,7 @@ linux-insides —> https://0xax.gitbooks.io/linux-insides/content/
 Math ∩ Programming -->https://www.jeremykun.com
 
 
-#Cryptography and Cryptocurrency 
+# Cryptography and Cryptocurrency 
 
 Crypto hack -->https://cryptohack.org
 
