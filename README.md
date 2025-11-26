@@ -266,6 +266,7 @@ The GNU C Reference Manual-->https://www.gnu.org/software/gnu-c-manual/gnu-c-man
 
 C documentation --> https://devdocs.io/c/
 
+C Low Level Dev-->https://github.com/gurugio/lowlevelprogramming-university?tab=readme-ov-file
 
 # C++
 
