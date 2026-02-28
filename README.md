@@ -632,6 +632,34 @@ cryptography -->https://learn-cryptography.readthedocs.io/zh/latest/basic/
 
 CSE 127, Winter 2021 Intro to Computer Security—> https://cseweb.ucsd.edu/classes/wi21/cse127-a/
 
+# Reverse Engineering
+
+USB HID Reverse Engineering for beginners -->https://santeri.pikarinen.com/pages/usb_hid_reverse_engineering/
+
+Reverse Engineering a USB Device in Linux -->https://blog.gistre.epita.fr/posts/sifeddine.regragui-2025-06-17-reverse_engineering_a_usb_device_in_linux/
+
+Reverse Engineering USB Protocol -->https://github.com/openrazer/openrazer/wiki/Reverse-Engineering-USB-Protocol
+
+# Linux Device Driver
+
+Linux Device Driver OPERSYS --> https://www.opersys.com/downloads/cc-slides/linux-device-drivers/linux-device-drivers-120203.pdf
+
+jtang CS421--> https://userpages.cs.umbc.edu/jtang/archives/cs421.f19/lectures/
+
+Character device drivers -->https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html
+
+ECE 570/670: (Advanced) System Software Design --> https://people.umass.edu/tongping/teaching/ece570/
+
+Driver (驅動) -->https://hackmd.io/@combo-tw/Linux-讀書會/%2F%40combo-tw%2FryRp--nQS
+
+Device Driver 重點整理 --> https://hackmd.io/@chenging/driver
+
+Linux Kernel Hardware Device Drivers¶ --> https://docs.kernel.org/networking/device_drivers/index.html
+
+Linux-Device-Driver Example -->https://github.com/d0u9/Linux-Device-Driver
+
+Linux Device Drivers for your Girl Friend --> https://sysplay.github.io/books/LinuxDrivers/book/Content/Part01.html
+
 
 # Linux and Unix 
 
